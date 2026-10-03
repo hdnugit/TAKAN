@@ -35,7 +35,14 @@ Results will be saved in a folder named `outputs/`. To get the final average acc
 
 ## Citation
 **If you found our work useful for your research, please cite our work**:
-    
+```
+@inproceedings{takan,
+  title     = {Out-of-Distribution Detection in Continual Learning},
+  author    = {Udayangani, Nimeshika and Salim, Flora D. and Leckie, Christopher and Erfani, Sarah},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026}
+}
+```    
 
 ## Thanks
 The code is developed based on [KAC] and [CODA-Prompt], and [Fast-KAN].
