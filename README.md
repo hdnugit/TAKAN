@@ -1,6 +1,10 @@
 ##  TAKAN
-PyTorch code for the  paper:\
+# Out-of-Distribution Detection in Continual Learning
+
+Official implementation of our NeurIPS 2026 paper:
+
 **Out-of-Distribution Detection in Continual Learning**
+
 <p align="center">
 <img src="main_fig.png" width="90%">
 </p>
