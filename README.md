@@ -10,7 +10,7 @@ Official implementation of our NeurIPS 2026 paper:
 </p>
 
 ## Setup and Datasets Preparation
-Please following the setup steps in [CODA-Prompt]
+Please follow the setup steps in [CODA-Prompt].
 ### Setup
  * Install anaconda: https://www.anaconda.com/distribution/
  * set up conda environment w/ python 3.8, ex: `conda create --name coda python=3.8`
