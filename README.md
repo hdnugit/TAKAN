@@ -6,7 +6,7 @@ Official implementation of our NeurIPS 2026 paper:
 **Out-of-Distribution Detection in Continual Learning**
 
 <p align="center">
-<img src="main_fig.png" width="90%">
+<img src="neurips_takan.jpg" width="90%">
 </p>
 
 ## Setup and Datasets Preparation
