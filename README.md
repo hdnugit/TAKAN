@@ -21,7 +21,7 @@ Please following the setup steps in [CODA-Prompt]
  * Create a folder `data/`
  * **CUB200**: retrive from: https://www.kaggle.com/datasets/cyizhuo/cub-200-2011-by-classes-folder
  * **ImageNet-R**: retrieve from: https://github.com/hendrycks/imagenet-r
- * **DomainNet**: retrieve from: http://ai.bu.edu/M3SDA/
+ * **DomainNet**: retrieve from: https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## Training
 All commands should be run under the project root directory.
@@ -29,7 +29,7 @@ All commands should be run under the project root directory.
 ```bash
 sh experiments/cub.sh
 sh experiments/imagenet-r.sh
-sh experiments/domainnet.sh
+sh experiments/cifar100.sh
 ```
 
 The methods with a linear classifier and with TA-KAN classifier will be evaluated.
